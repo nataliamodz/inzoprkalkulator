@@ -7,7 +7,7 @@ def dodaj (a, b):
     return wynik
 
 def odemij(a, b):
-    return a-b
+    return a - b
 
 get info()
 a = int(imput())                                     
